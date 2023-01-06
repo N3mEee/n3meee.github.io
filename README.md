@@ -1,2 +1,3 @@
 # n3meee.github.io
-A website with all my projects
+
+Placeholder for my portfolio.

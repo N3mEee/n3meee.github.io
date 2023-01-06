@@ -1,0 +1,22 @@
+{
+  "name": "n3meee.github.io",
+  "description": "A website with all my projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N3mEee/n3meee.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N3mEee/n3meee.github.io/issues"
+  },
+  "homepage": "https://github.com/N3mEee/n3meee.github.io#readme"
+}
